@@ -37,7 +37,7 @@ BistonChecker is a Python script for checking the status of proxies. It supports
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/bistonchecker.git
+git clone https://github.com/bagusass/bistonchecker.git
 ```
 
 2. Navigate to the project directory:
